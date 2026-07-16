@@ -15,7 +15,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/e3q/proprietary/vendor/etc/audio/sku_pineapple/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_pineapple/mixer_paths.xml \
     vendor/samsung/e3q/proprietary/vendor/etc/audio/sku_pineapple/resourcemanager.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_pineapple/resourcemanager.xml \
     vendor/samsung/e3q/proprietary/vendor/etc/display/qdcm_calib_data_E3_S6E3HAF_AMB679FN01.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_E3_S6E3HAF_AMB679FN01.json \
-    vendor/samsung/e3q/proprietary/vendor/etc/displayconfig/display_id_4630947039571902851.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947039571902851.xml \
     vendor/samsung/e3q/proprietary/vendor/etc/libese-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libese-nxp.conf \
     vendor/samsung/e3q/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/samsung/e3q/proprietary/vendor/etc/nfc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/etc/nfc/libnfc-nxp_RF.conf \
