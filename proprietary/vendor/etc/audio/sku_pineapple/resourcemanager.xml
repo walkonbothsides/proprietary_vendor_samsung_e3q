@@ -388,6 +388,10 @@
                 <custom-config key="perform">
                     <snd_device_name>voice-perf-main-mic</snd_device_name>
                 </custom-config>
+                <custom-config key="auracast">
+                    <channels>4</channels>
+                    <snd_device_name>auracast-multi-mic</snd_device_name>
+                </custom-config>
             </usecase>
             <ec_rx_device>
                 <id>PAL_DEVICE_OUT_HANDSET</id>
@@ -967,6 +971,9 @@
                 </custom-config>
                 <custom-config key="perform">
                     <snd_device_name>voice-perf-usb-headset-mic</snd_device_name>
+                </custom-config>
+                <custom-config key="auracast">
+                    <snd_device_name>auracast-usb-headset-mic</snd_device_name>
                 </custom-config>
             </usecase>
             <ec_rx_device>
