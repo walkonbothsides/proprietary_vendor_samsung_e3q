@@ -1,0 +1,8 @@
+version: "1"
+rules:
+  - base: lineage-24.0
+    upstream: Exynoobs:lineage-24.0
+    mergeMethod: merge
+    mergeUnstable: false
+label: ":arrow_heading_down: pull"
+conflictLabel: "merge-conflict"
